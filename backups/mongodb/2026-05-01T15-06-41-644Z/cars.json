@@ -1,0 +1,449 @@
+[
+  {
+    "_id": {
+      "$oid": "691cac64283d814e1441e0bc"
+    },
+    "title": "Toyota CHR.hybride  For sale",
+    "description": "Good car",
+    "category": "Car",
+    "price": "19000000",
+    "priceNumeric": {
+      "$numberInt": "19000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Kigali, Nyarugenge, Kigali, Kigali, Gisenga",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0053-1763742092435-720748238.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0041-1763742092950-372486045.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0053-1763742093153-876632456.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0053-1763742092435-720748238.jpg",
+    "brand": "Toyota",
+    "model": "Toyota",
+    "year": {
+      "$numberInt": "2018"
+    },
+    "mileage": {
+      "$numberInt": "3000"
+    },
+    "mileageUnit": "km",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "engineSizeUnit": "L",
+    "color": "Black",
+    "seats": {
+      "$numberInt": "4"
+    },
+    "condition": "Good",
+    "features": [],
+    "safetyFeatures": [],
+    "comfortFeatures": [],
+    "isImported": false,
+    "hasWarranty": false,
+    "insurance": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "47"
+    },
+    "favorites": [],
+    "address": {
+      "province": "Kigali",
+      "district": "Nyarugenge",
+      "sector": "Kigali",
+      "cell": "Kigali",
+      "village": "Gisenga"
+    },
+    "specifications": {
+      "performance": {
+        "power": "0",
+        "torque": "",
+        "acceleration": "100",
+        "topSpeed": "150",
+        "fuelConsumption": "12"
+      },
+      "transmission": {
+        "drivetrain": "Left"
+      }
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763486820125"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1774261855013"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692566d6abe9ea02d90dab53"
+    },
+    "title": "Nissan patrol 2011, 23m,",
+    "description": "Nice car",
+    "category": "Car",
+    "price": "23000000",
+    "priceNumeric": {
+      "$numberInt": "23000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Kigali, Gasabo, Kinyinya, Gasharu",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0052-1764058838339-510484099.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0047-1764058838554-423942188.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0042-1764058838728-995053418.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0052-1764058838339-510484099.jpg",
+    "brand": "Nissan",
+    "model": "Nissan",
+    "year": {
+      "$numberInt": "2011"
+    },
+    "mileage": {
+      "$numberInt": "21000"
+    },
+    "mileageUnit": "km",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "engineSizeUnit": "L",
+    "color": "Gray",
+    "seats": {
+      "$numberInt": "5"
+    },
+    "condition": "Good",
+    "features": [],
+    "safetyFeatures": [],
+    "comfortFeatures": [],
+    "isImported": false,
+    "hasWarranty": false,
+    "insurance": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "6"
+    },
+    "favorites": [],
+    "address": {
+      "province": "Kigali",
+      "district": "Gasabo",
+      "sector": "Kinyinya",
+      "cell": "Gasharu",
+      "village": ""
+    },
+    "specifications": {
+      "performance": {
+        "power": "200",
+        "torque": "RAD",
+        "acceleration": "5",
+        "topSpeed": "180",
+        "fuelConsumption": "12"
+      },
+      "transmission": {
+        "drivetrain": "X"
+      }
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764058838966"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1769449274127"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692568b0abe9ea02d90dab5a"
+    },
+    "title": "Car for sale Toyota C HR hybride",
+    "description": "Nice car",
+    "category": "Car",
+    "price": "28000000",
+    "priceNumeric": {
+      "$numberInt": "28000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Kigali, Gasabo, Kinyinya, Kagugu, Rukingu",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0046-1764059312008-454993355.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0044-1764059312387-846623817.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0043-1764059312581-357507225.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0045-1764059312785-898057270.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251121_WA0046-1764059312008-454993355.jpg",
+    "brand": "Toyota",
+    "model": "Toyota C HR",
+    "year": {
+      "$numberInt": "2020"
+    },
+    "mileage": {
+      "$numberInt": "7000"
+    },
+    "mileageUnit": "km",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "engineSizeUnit": "L",
+    "color": "Black",
+    "seats": {
+      "$numberInt": "4"
+    },
+    "condition": "Good",
+    "features": [],
+    "safetyFeatures": [],
+    "comfortFeatures": [],
+    "isImported": false,
+    "hasWarranty": false,
+    "insurance": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "24"
+    },
+    "favorites": [],
+    "address": {
+      "province": "Kigali",
+      "district": "Gasabo",
+      "sector": "Kinyinya",
+      "cell": "Kagugu",
+      "village": "Rukingu"
+    },
+    "specifications": {
+      "performance": {
+        "power": "200",
+        "torque": "RAI",
+        "acceleration": "5",
+        "topSpeed": "200",
+        "fuelConsumption": "12"
+      },
+      "transmission": {
+        "drivetrain": "200"
+      }
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764059312980"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1773874648983"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6925b18f64a77e0e0013befe"
+    },
+    "title": "Mitsubishi Pajero For Sale",
+    "description": "For Sale: Mitsubishi Pajero 2015 – Automatic | Petrol\r\n\r\nWell-maintained 2015 Mitsubishi Pajero available for sale.\r\n🔸 Transmission: Automatic\r\n🔸 Fuel type: Petrol\r\n🔸 Condition: Bought brand new at 0 km from Victoria Motors Rwanda\r\n🔸 Ownership: Single owner since purchase\r\n🔸 Registration: Rwandan plate, all papers in order\r\n\r\nSmooth ride, powerful performance, and perfect for both city and off-road driving. Ideal for anyone looking for a reliable and spacious SUV.",
+    "category": "Car",
+    "price": "28000000",
+    "priceNumeric": {
+      "$numberInt": "28000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Kigali, Kicukiro, Kagarama, Muyange, Muyange",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/Screenshot_20251125_145020_2-1764077966310-220279708.png",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/Screenshot_20251125_145039_2-1764077966493-115381486.png",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/Screenshot_20251125_145100_png-1764077967021-303020526.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/Screenshot_20251125_145056_png-1764077967204-991232834.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/Screenshot_20251125_145045_png-1764077967381-961847815.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/Screenshot_20251125_145020_2-1764077966310-220279708.png",
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi",
+    "year": {
+      "$numberInt": "2015"
+    },
+    "mileage": {
+      "$numberInt": "14000"
+    },
+    "mileageUnit": "km",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "engineSizeUnit": "L",
+    "color": "Silver",
+    "seats": {
+      "$numberInt": "5"
+    },
+    "condition": "Good",
+    "features": [],
+    "safetyFeatures": [],
+    "comfortFeatures": [],
+    "isImported": false,
+    "hasWarranty": false,
+    "insurance": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "9"
+    },
+    "favorites": [],
+    "address": {
+      "province": "Kigali",
+      "district": "Kicukiro",
+      "sector": "Kagarama",
+      "cell": "Muyange",
+      "village": "Muyange"
+    },
+    "specifications": {
+      "performance": {
+        "power": "2000",
+        "torque": "RAG",
+        "acceleration": "5",
+        "topSpeed": "180",
+        "fuelConsumption": "12"
+      },
+      "transmission": {
+        "drivetrain": "5"
+      }
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764077967589"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1777023591575"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "693bdbafa09998a978f2828e"
+    },
+    "title": "Toyota land cruiser  TPD For sale",
+    "description": "Toyota land cruiser \r\nManuel \r\nDiesel \r\nYear 1998\r\nFull Document \r\nGood condition \r\nPrice 9M\r\nWatsapp call: 0788820543",
+    "category": "Car",
+    "price": "9000000",
+    "priceNumeric": {
+      "$numberInt": "9000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Kigali, Gasabo, Kinyinya, Kagugu, Muhororo",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251212_WA0033-1765541336440-760704447.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251212_WA0035-1765541336647-898324804.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251212_WA0034-1765541336831-146549107.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251212_WA0032-1765541336979-14984937.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251212_WA0036-1765541337192-689475249.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251212_WA0037-1765541337310-22401776.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251212_WA0039-1765541337498-248854225.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/cars/IMG_20251212_WA0033-1765541336440-760704447.jpg",
+    "brand": "Toyota",
+    "model": "TPD",
+    "year": {
+      "$numberInt": "1998"
+    },
+    "mileage": {
+      "$numberInt": "18000"
+    },
+    "mileageUnit": "km",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "engineSizeUnit": "L",
+    "color": "Black",
+    "seats": {
+      "$numberInt": "5"
+    },
+    "condition": "Good",
+    "features": [],
+    "safetyFeatures": [],
+    "comfortFeatures": [],
+    "isImported": false,
+    "hasWarranty": false,
+    "insurance": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "86"
+    },
+    "favorites": [],
+    "address": {
+      "province": "Kigali",
+      "district": "Gasabo",
+      "sector": "Kinyinya",
+      "cell": "Kagugu",
+      "village": "Muhororo"
+    },
+    "specifications": {
+      "performance": {
+        "power": "2000",
+        "torque": "RAI",
+        "acceleration": "5",
+        "topSpeed": "180",
+        "fuelConsumption": "180"
+      },
+      "transmission": {
+        "drivetrain": "X"
+      }
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1765530543880"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1773501485836"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

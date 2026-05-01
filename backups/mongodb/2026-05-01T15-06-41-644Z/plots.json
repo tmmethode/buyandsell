@@ -1,0 +1,627 @@
+[
+  {
+    "_id": {
+      "$oid": "6920325e90e9f2d1d2ddfd13"
+    },
+    "title": "Isambu ya 1,8000Hectare Bugesera Mayange mumiturire R1",
+    "description": "Iyisambu ikora kurikaburimbo.\r\nIri mumiturire R1",
+    "category": "Ibibanza",
+    "price": "300000000",
+    "priceNumeric": {
+      "$numberInt": "300000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Iburasirazuba, Bugesera, Mayange, Kagenge",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/IMG_20251120_WA0034-1763717725938-407187635.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/IMG_20251119_WA0035-1763717726340-876142346.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/IMG_20251120_WA0034-1763717725938-407187635.jpg",
+    "area": {
+      "$numberInt": "180000"
+    },
+    "areaUnit": "sqm",
+    "shape": "Rectangular",
+    "terrain": "Flat",
+    "soilType": "Mixed",
+    "zoning": "Residential",
+    "landUse": "Residential",
+    "accessRoad": true,
+    "roadType": "Paved",
+    "utilities": {
+      "water": true,
+      "electricity": true,
+      "gas": false,
+      "internet": false,
+      "sewage": false
+    },
+    "nearbyFacilities": [],
+    "restrictions": [],
+    "documents": [],
+    "titleDeed": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "7"
+    },
+    "favorites": [],
+    "address": {
+      "city": "Iburasirazuba",
+      "district": "Bugesera",
+      "sector": "Mayange",
+      "cell": "Kagenge",
+      "village": ""
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763717726513"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1769449004022"
+      }
+    },
+    "pricePerSqm": {
+      "$numberDouble": "1666.6666666666667"
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6920380190e9f2d1d2ddfe13"
+    },
+    "title": "Isambu iri mubuhinzi igurishwa shyorongi",
+    "description": "Isambu igurishwa Shyorongi. Iri mubuhinzi \r\nIkora kumuhanda ahantu heza hashashe",
+    "category": "Ibibanza",
+    "price": "150000000",
+    "priceNumeric": {
+      "$numberInt": "150000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Amajyaruguru, Rulindo, BUREGA, Taba, Kivomo",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/IMG_20251121_WA0024-1763719169091-143524966.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/IMG_20251121_WA0024-1763719169091-143524966.jpg",
+    "area": {
+      "$numberInt": "32791"
+    },
+    "areaUnit": "sqm",
+    "shape": "Rectangular",
+    "terrain": "Flat",
+    "soilType": "Other",
+    "zoning": "Agricultural",
+    "landUse": "Agricultural",
+    "accessRoad": true,
+    "roadType": "Dirt",
+    "utilities": {
+      "water": true,
+      "electricity": true,
+      "sewage": false,
+      "internet": false,
+      "gas": false
+    },
+    "nearbyFacilities": [],
+    "restrictions": [],
+    "documents": [],
+    "titleDeed": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "10"
+    },
+    "favorites": [],
+    "address": {
+      "city": "Amajyaruguru",
+      "district": "Rulindo",
+      "sector": "BUREGA",
+      "cell": "Taba",
+      "village": "Kivomo"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763719169420"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1777190956209"
+      }
+    },
+    "pricePerSqm": {
+      "$numberDouble": "4574.425909548351"
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69260ba495095b70df756100"
+    },
+    "title": "Masaka Mbabe. Cite irimo Ibibanza bigurishwa",
+    "description": "Cite irimo Ibibanza bigurishwa \r\nMasaka/Mbabe: 6.5mill.\r\nHafi cyane\r\n 500frw uvuye kuri kaburimbo",
+    "category": "Ibibanza",
+    "price": "6500000",
+    "priceNumeric": {
+      "$numberInt": "6500000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Kigali, Kicukiro, Masaka, Mbabe, Mbabe",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/IMG_20251125_WA0037-1764101027927-360407841.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/IMG_20251125_WA0037-1764101027927-360407841.jpg",
+    "area": {
+      "$numberInt": "300"
+    },
+    "areaUnit": "sqm",
+    "shape": "Rectangular",
+    "terrain": "Flat",
+    "soilType": "Mixed",
+    "zoning": "Residential",
+    "landUse": "Residential",
+    "accessRoad": true,
+    "roadType": "Paved",
+    "utilities": {
+      "water": true,
+      "electricity": true,
+      "gas": false,
+      "internet": false,
+      "sewage": false
+    },
+    "nearbyFacilities": [],
+    "restrictions": [],
+    "documents": [],
+    "titleDeed": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "44"
+    },
+    "favorites": [],
+    "address": {
+      "city": "Kigali",
+      "district": "Kicukiro",
+      "sector": "Masaka",
+      "cell": "Mbabe",
+      "village": "Mbabe"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764101028218"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1773565953199"
+      }
+    },
+    "pricePerSqm": {
+      "$numberDouble": "21666.666666666668"
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6926d74cadb331315a13f970"
+    },
+    "title": "Cite irimo Ibibanza bigurishwa urenze nyagasambu kuri kaburimbo",
+    "description": "Ibibanza mwari mutegereje muri benshi byashyizwe ku isoko \r\nIbiciro byakubiswe hasi ni 4.5 M",
+    "category": "Ibibanza",
+    "price": "4500000",
+    "priceNumeric": {
+      "$numberInt": "4500000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Iburasirazuba, Rwamagana, Musha, Musha, Rugarama",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/Screenshot_20251126_122440_png-1764153163514-893472027.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/Screenshot_20251126_122440_png-1764153163514-893472027.jpg",
+    "area": {
+      "$numberInt": "314"
+    },
+    "areaUnit": "sqm",
+    "shape": "Rectangular",
+    "terrain": "Flat",
+    "soilType": "Mixed",
+    "zoning": "Residential",
+    "landUse": "Residential",
+    "accessRoad": true,
+    "roadType": "Paved",
+    "utilities": {
+      "water": true,
+      "electricity": true,
+      "sewage": false,
+      "internet": false,
+      "gas": false
+    },
+    "nearbyFacilities": [
+      "School"
+    ],
+    "restrictions": [],
+    "documents": [],
+    "titleDeed": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "19"
+    },
+    "favorites": [],
+    "address": {
+      "city": "Iburasirazuba",
+      "district": "Rwamagana",
+      "sector": "Musha",
+      "cell": "Musha",
+      "village": "Rugarama"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764153164138"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1766924314746"
+      }
+    },
+    "pricePerSqm": {
+      "$numberDouble": "14331.210191082802"
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69286a4426582962078c2f18"
+    },
+    "title": "*CITE SHYASHYA Y'IBIBANZA BIGURISHWA*  *RWAMAGANA/* *IMWURIRE.*",
+    "description": "*CITE SHYASHYA Y'IBIBANZA BIGURISHWA* \r\n*RWAMAGANA/* *IMWURIRE.*\r\n\r\n*Uvuye Kigali nahandi *uviramo uretse kucyijumba shop ufata moto.1000frw*\r\n*Ukanyura aho bashyize radari yicyogajuru *kurwibutso rwa mwurire kumashuri yamwurire.*\r\n\r\nCall: 0788820543\r\nVisit: 5k",
+    "category": "Ibibanza",
+    "price": "2500000",
+    "priceNumeric": {
+      "$numberInt": "2500000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Iburasirazuba, Rwamagana, Mwulire, Mwulire, Mpinga",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/Screenshot_20251127_152046_png-1764256324110-148860263.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/Screenshot_20251127_152046_png-1764256324110-148860263.jpg",
+    "area": {
+      "$numberInt": "350"
+    },
+    "areaUnit": "sqm",
+    "shape": "Rectangular",
+    "terrain": "Flat",
+    "soilType": "Other",
+    "zoning": "Residential",
+    "landUse": "Residential",
+    "accessRoad": true,
+    "roadType": "Paved",
+    "utilities": {
+      "water": true,
+      "electricity": true,
+      "sewage": false,
+      "internet": false,
+      "gas": false
+    },
+    "nearbyFacilities": [],
+    "restrictions": [],
+    "documents": [],
+    "titleDeed": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "18"
+    },
+    "favorites": [],
+    "address": {
+      "city": "Iburasirazuba",
+      "district": "Rwamagana",
+      "sector": "Mwulire",
+      "cell": "Mwulire",
+      "village": "Mpinga"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764256324308"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1774266618722"
+      }
+    },
+    "pricePerSqm": {
+      "$numberDouble": "7142.857142857143"
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6929ca2c7c59f068b0c48f66"
+    },
+    "title": "CITE SHYASHYA IGURISHWA GAHANGA/ KAREMBURE. Nimuri R1 Uhita wubaka.",
+    "description": "*CITE SHYASHYA IGURISHWA* \r\n*GAHANGA/ KAREMBURE.*\r\n*Nimuri R1* Uhita wubaka.\r\n\r\n📐 300sqm/ 18,500mill\r\n📐300sqm/ 22,500mill\r\n📐300sqm/ 25mill\r\n\r\nCall: 0788820543\r\nVisit:5k\r\nCommission:3,5%",
+    "category": "Ibibanza",
+    "price": "18500000",
+    "priceNumeric": {
+      "$numberInt": "18500000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Kigali, Kicukiro, Gahanga, Gahanga, Gahanga",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/Screenshot_20251127_172733_png-1764346412428-971422398.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/Screenshot_20251127_172733_png-1764346412428-971422398.jpg",
+    "area": {
+      "$numberInt": "300"
+    },
+    "areaUnit": "sqm",
+    "shape": "Rectangular",
+    "terrain": "Flat",
+    "soilType": "Mixed",
+    "zoning": "Residential",
+    "landUse": "Residential",
+    "accessRoad": true,
+    "roadType": "Paved",
+    "utilities": {
+      "water": true,
+      "electricity": true,
+      "gas": false,
+      "internet": false,
+      "sewage": false
+    },
+    "nearbyFacilities": [
+      "School"
+    ],
+    "restrictions": [],
+    "documents": [],
+    "titleDeed": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "58"
+    },
+    "favorites": [],
+    "address": {
+      "city": "Kigali",
+      "district": "Kicukiro",
+      "sector": "Gahanga",
+      "cell": "Gahanga",
+      "village": "Gahanga"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764346412648"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1773508055523"
+      }
+    },
+    "pricePerSqm": {
+      "$numberDouble": "61666.666666666664"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "youtubeUrl": "",
+    "district": "Kicukiro",
+    "province": "Kigali",
+    "sector": "Gahanga"
+  },
+  {
+    "_id": {
+      "$oid": "694e8dccf20077c3d4dcdbcb"
+    },
+    "title": "Ikibanza kigurishwa Nyamirambo",
+    "description": "*Site nziza yakaswe hano mu Bugesera/ kamabuye*\r\n\r\nAmazi n'umuriro birahari,\r\nAmashuri meza ayigenga n'aya leta,\r\nIvuriro hafi\r\n\r\nIntera: 500 metero uva kuri kaburimbo \r\nPrice: 2,5mill\r\n\r\n\r\nCall: 0788820543\r\nWebsite: *www.buyandsell250.com*",
+    "category": "Ibibanza",
+    "price": "18500000",
+    "priceNumeric": {
+      "$numberInt": "18500000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Kigali, Nyarugenge, Mageragere",
+    "province": "Kigali",
+    "district": "Nyarugenge",
+    "sector": "Mageragere",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/Screenshot_20251125_144910_png-1766755787903-916841628.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/Screenshot_20251125_144910_png-1766755787903-916841628.jpg",
+    "area": {
+      "$numberInt": "400"
+    },
+    "areaUnit": "sqm",
+    "shape": "Rectangular",
+    "terrain": "Flat",
+    "soilType": "Mixed",
+    "zoning": "Industrial",
+    "landUse": "Industrial",
+    "accessRoad": true,
+    "roadType": "Gravel",
+    "utilities": {
+      "water": true,
+      "electricity": true,
+      "gas": false,
+      "internet": false,
+      "sewage": false
+    },
+    "nearbyFacilities": [],
+    "restrictions": [],
+    "documents": [],
+    "titleDeed": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "29"
+    },
+    "favorites": [],
+    "address": {
+      "city": "Kigali",
+      "district": "Nyarugenge",
+      "sector": "Mageragere",
+      "cell": "",
+      "village": ""
+    },
+    "youtubeUrl": "https://www.youtube.com/watch?v=9KxDH6duE5Y&t=1s",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1766755788291"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1777191048234"
+      }
+    },
+    "pricePerSqm": {
+      "$numberInt": "46250"
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "695cdfbb55eda7b214e7acb9"
+    },
+    "title": "Muhima/ Town Commercial for sale",
+    "description": "Plot Commercial for sale Kigali Town near by quincairi Sofaru",
+    "category": "Ibibanza",
+    "price": "1000000000",
+    "priceNumeric": {
+      "$numberInt": "1000000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "location": "Kigali, Nyarugenge, Kigali",
+    "province": "Kigali",
+    "district": "Nyarugenge",
+    "sector": "Kigali",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/Screenshot_20260106_120437_png-1767694267373-556947582.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/plots/Screenshot_20260106_120437_png-1767694267373-556947582.jpg",
+    "area": {
+      "$numberInt": "1771"
+    },
+    "areaUnit": "sqm",
+    "shape": "Rectangular",
+    "terrain": "Flat",
+    "soilType": "Mixed",
+    "zoning": "Residential",
+    "landUse": "Residential",
+    "accessRoad": true,
+    "roadType": "Paved",
+    "utilities": {
+      "water": true,
+      "electricity": true,
+      "sewage": false,
+      "internet": false,
+      "gas": false
+    },
+    "nearbyFacilities": [],
+    "restrictions": [],
+    "documents": [],
+    "titleDeed": false,
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "6"
+    },
+    "favorites": [],
+    "address": {
+      "city": "Kigali",
+      "district": "Nyarugenge",
+      "sector": "Kigali",
+      "cell": "",
+      "village": ""
+    },
+    "youtubeUrl": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1767694267738"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1773501330925"
+      }
+    },
+    "pricePerSqm": {
+      "$numberDouble": "564652.7385657821"
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

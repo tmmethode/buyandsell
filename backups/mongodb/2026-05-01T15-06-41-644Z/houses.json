@@ -1,0 +1,1348 @@
+[
+  {
+    "_id": {
+      "$oid": "6918cc0318b6fd013d6b203c"
+    },
+    "title": "Inzu igurishwa kicukiro Niboyi",
+    "description": "Inzu nziza ihendutse Kandi irahantu heza",
+    "category": "Inzu ikodeshwa",
+    "price": "80,000,000",
+    "priceNumeric": {
+      "$numberInt": "80000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "75000000"
+    },
+    "province": "Kigali",
+    "district": "Kicukiro",
+    "sector": "Kicukiro",
+    "cell": "Kagina",
+    "village": "Urugero",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251009_104510-1763232770639-871787709.png",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251009_104413-1763232771187-14696860.png"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251009_104510-1763232770639-871787709.png",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "area": {
+      "$numberInt": "326"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "3"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "9"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763232771627"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1767695911983"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69204de27014907982ed4c83"
+    },
+    "title": "House for sale in Gisozi above Gakungiro",
+    "description": "Inzu igurishwa kugisozi ruguru yomugakinjiro",
+    "category": "Luxury House",
+    "price": "150000000",
+    "priceNumeric": {
+      "$numberInt": "150000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Gasabo",
+    "sector": "Gisozi",
+    "cell": "Musezero",
+    "village": "Kagara",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251117_WA0002-1763724767885-608029142.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251117_WA0005-1763724768608-555232676.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251117_WA0006-1763724768989-3576050.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251117_WA0007-1763724769379-752351082.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251117_WA0003-1763724769714-701260621.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251117_WA0002-1763724767885-608029142.jpg",
+    "bedrooms": {
+      "$numberInt": "5"
+    },
+    "bathrooms": {
+      "$numberInt": "3"
+    },
+    "area": {
+      "$numberInt": "900"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "8"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "9"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763724770021"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1771095116838"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69221b2a1ee5ce7e54e30e56"
+    },
+    "title": "Inzu igurishwa kinyinya",
+    "description": "INZU IGURISHWA/ KINYINYA \r\nMUBIREMBO.\r\n\r\nIfite inzu nini yibyumba 4 na salon\r\nIkagira annex yibyumba bibiri na salon \r\nIkagira nagachamberete kamwe \r\nIragurishwa 15.5M\r\nYinjiza 200k\r\nUbuso : 255m2\r\nPrice:15mill\r\n\r\nVisit: 5k",
+    "category": "Middle house",
+    "price": "15000000",
+    "priceNumeric": {
+      "$numberInt": "15000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "13500000"
+    },
+    "province": "Kigali",
+    "district": "Gasabo",
+    "sector": "Kinyinya",
+    "cell": "Murama",
+    "village": "Binunga",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251016_WA0035-1763842858116-823898491.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251016_WA0035-1763842858116-823898491.jpg",
+    "bedrooms": {
+      "$numberInt": "3"
+    },
+    "bathrooms": {
+      "$numberInt": "0"
+    },
+    "area": {
+      "$numberInt": "255"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "0"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "yearBuilt": {
+      "$numberInt": "2022"
+    },
+    "yearRenovated": {
+      "$numberInt": "2022"
+    },
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "10"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763842858589"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1771530968812"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69221c3a1ee5ce7e54e30e5d"
+    },
+    "title": "Inzu igurishwa Gikondo kwamukarujanga",
+    "description": "INZU IGURISHWA GIKONDO KWAMUKARUJANGA\r\n    \r\nInzu yibyumba  2\r\nAnnex ya 1 na salon                   \r\nPrice: 15mill/ Negotiable \r\n  Hinjiza: 100k\r\n Visite: 5k\r\nCommission: 400k",
+    "category": "Middle house",
+    "price": "15000000",
+    "priceNumeric": {
+      "$numberInt": "15000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Kicukiro",
+    "sector": "Gikondo",
+    "cell": "Kinunga",
+    "village": "Kinunga",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251015_WA0022-1763843129323-37842343.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251122_WA0010-1763843129489-931316043.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251122_WA0012-1763843129739-218842730.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251122_WA0011-1763843129888-711459443.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251122_WA0013-1763843130076-457906005.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251015_WA0022-1763843129323-37842343.jpg",
+    "bedrooms": {
+      "$numberInt": "2"
+    },
+    "bathrooms": {
+      "$numberInt": "0"
+    },
+    "area": {
+      "$numberInt": "100"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "0"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "yearBuilt": {
+      "$numberInt": "2022"
+    },
+    "yearRenovated": {
+      "$numberInt": "2022"
+    },
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "13"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763843130203"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1773508050760"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692222771ee5ce7e54e30ee3"
+    },
+    "title": "Inzu igurishwa Norvege. Yo kwituzuriza",
+    "description": "Iyinzu iri muri Cartier nziza iri ruguru yumuhanda",
+    "category": "Middle house",
+    "price": "55000000",
+    "priceNumeric": {
+      "$numberInt": "55000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Nyarugenge",
+    "sector": "Nyarugenge",
+    "cell": "Agatare",
+    "village": "Inyambo",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251119_WA0001-1763844726635-686958364.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251119_WA0002-1763844726866-856388451.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251119_WA0001-1763844726635-686958364.jpg",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "area": {
+      "$numberInt": "300"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "3"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "yearBuilt": {
+      "$numberInt": "2025"
+    },
+    "yearRenovated": {
+      "$numberInt": "2025"
+    },
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "3"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763844727008"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1768218741675"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692231bcfe34f0793b062d4d"
+    },
+    "title": "Inzu igurishwa Kamonyi/ Gihara",
+    "description": "Inzu igurishwa Kamonyi Gihara hafi nagare\r\nIyinzu yegereye ibikorwa remezo byose",
+    "category": "Middle house",
+    "price": "15000000",
+    "priceNumeric": {
+      "$numberInt": "15000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Amajyepfo",
+    "district": "Kamonyi",
+    "sector": "Runda",
+    "cell": "Gihara",
+    "village": "Ruyigi",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20250827_WA0041-1763848635707-208099235.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20250827_WA0041-1763848635707-208099235.jpg",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "300"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "3"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "yearBuilt": {
+      "$numberInt": "2025"
+    },
+    "yearRenovated": {
+      "$numberInt": "2025"
+    },
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "1"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763848636218"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1765117548908"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6925636cabe9ea02d90daab4"
+    },
+    "title": "Inzu igurishwa karuruma gashyushya",
+    "description": "Inzu nziza cyane",
+    "category": "Middle house",
+    "price": "50000000",
+    "priceNumeric": {
+      "$numberInt": "50000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Gasabo",
+    "sector": "Gatsata",
+    "cell": "Karuruma",
+    "village": "Bigega",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251125_WA0006-1764057963899-326828334.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251125_WA0006-1764057963899-326828334.jpg",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "area": {
+      "$numberInt": "308"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "3"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "yearBuilt": {
+      "$numberInt": "2025"
+    },
+    "yearRenovated": {
+      "$numberInt": "2025"
+    },
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "2"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764057964319"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1771237225465"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69256448abe9ea02d90daabb"
+    },
+    "title": "Inzu igurishwa karuruma muri Cite",
+    "description": "Iyinzu ntamakuru arambuye tuyifiteho\r\nStill a gent not Verifyed.",
+    "category": "Middle house",
+    "price": "50000000",
+    "priceNumeric": {
+      "$numberInt": "50000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Gasabo",
+    "sector": "Gatsata",
+    "cell": "Karuruma",
+    "village": "Bigega",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251125_WA0008-1764058184426-250536625.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20251125_WA0008-1764058184426-250536625.jpg",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "area": {
+      "$numberInt": "300"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "3"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "yearBuilt": {
+      "$numberInt": "2025"
+    },
+    "yearRenovated": {
+      "$numberInt": "2025"
+    },
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "4"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764058184604"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1769543673103"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6925abc964a77e0e0013bee5"
+    },
+    "title": "Inzu igurishwa igikondo mukobo",
+    "description": "IRAGURISHWA.\r\nGIKONDO/KARURAYI.45mill.\r\n\r\nRoom 4.\r\nToilet 2\r\nPrice: 45mill\r\n\r\nCondition.\r\nKuzuza Form k'umu client\r\nUrugendo fees: 5,000 Rwf\r\nCommission.3%\r\n\r\nIbi bidufasha gutanga serivisi inoze no gukorana mu mucyo.",
+    "category": "Middle house",
+    "price": "45000000",
+    "priceNumeric": {
+      "$numberInt": "45000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Kicukiro",
+    "sector": "Gikondo",
+    "cell": "Kanserege",
+    "village": "Marembo Ii",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251125_145347_png-1764078387769-598971919.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251125_145341_png-1764078387947-810119854.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251125_145347_png-1764078387769-598971919.jpg",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "area": {
+      "$numberInt": "200"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "2"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "yearBuilt": {
+      "$numberInt": "2025"
+    },
+    "yearRenovated": {
+      "$numberInt": "2025"
+    },
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "196"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764076489861"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1776783730473"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "listingType": "For Sale",
+    "numberOfDoors": null,
+    "youtubeUrl": "https://youtube.com/shorts/TyW-bUrSiTo?si=t36H9fOhNE2V8tWo"
+  },
+  {
+    "_id": {
+      "$oid": "6925af3e64a77e0e0013bef3"
+    },
+    "title": "A house for sale in Gikondo with an annex of 3 rooms, each with an internal shower and toilet.",
+    "description": "Nice house",
+    "category": "Luxury House",
+    "price": "150000000",
+    "priceNumeric": {
+      "$numberInt": "150000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "130000000"
+    },
+    "province": "Kigali",
+    "district": "Kicukiro",
+    "sector": "Kigarama",
+    "cell": "Kigarama",
+    "village": "Amahoro",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251125_145244_png-1764077373178-61645016.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251125_145214_png-1764077373608-237354619.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251125_145204_png-1764077373780-329324890.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251125_145159_png-1764077373973-374716069.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251125_145151_png-1764077374189-60726645.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251125_145142_png-1764077374356-158635434.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251125_145244_png-1764077373178-61645016.jpg",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "3"
+    },
+    "area": {
+      "$numberInt": "340"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "3"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "yearBuilt": {
+      "$numberInt": "2025"
+    },
+    "yearRenovated": {
+      "$numberInt": "2025"
+    },
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "34"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764077374618"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1774204758156"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "listingType": "For Sale",
+    "numberOfDoors": null,
+    "youtubeUrl": ""
+  },
+  {
+    "_id": {
+      "$oid": "692708bac29bd4c5a1731b18"
+    },
+    "title": "House for sale in Kicukiro Niboyi",
+    "description": "*INZU IGURISHWA*\r\n*KICUKIRO/ NIBOYI*\r\n\r\n4 room \r\n2 bedroom\r\nUbuso:320sqm\r\nPrice:80mill\r\n*Condition.*\r\nKuzuza Form k'umu client\r\nUrugendo fees: 5,000 Rwf\r\nCommission.3%\r\n\r\n*Ibi bidufasha gutanga serivisi inoze no gukorana mu mucyo.*",
+    "category": "Luxury House",
+    "price": "80000000",
+    "priceNumeric": {
+      "$numberInt": "80000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Kicukiro",
+    "sector": "Niboye",
+    "cell": "Niboye",
+    "village": "Gorora",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251126_154646_png-1764165985585-733094481.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251126_154646_png-1764165985776-269481735.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251126_154727_png-1764165985956-323267660.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251126_154724_png-1764165986095-989066472.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251126_154721_png-1764165986295-726232539.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251126_154718_png-1764165986505-317167769.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251126_154715_png-1764165986669-894648082.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251126_154712_png-1764165986860-513093974.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251126_154708_png-1764165987016-738087637.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251126_154646_png-1764165985585-733094481.jpg",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "area": {
+      "$numberInt": "320"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "4"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "yearBuilt": {
+      "$numberInt": "2016"
+    },
+    "yearRenovated": {
+      "$numberInt": "2016"
+    },
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "90"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764165818167"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1777021523844"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692ada426fa3f8effead127e"
+    },
+    "title": "Inzu igurishwa. bugesera mayange/ Murimbyo",
+    "description": "Inzu igurishwa bugesera mayange/ Murimbyo.\r\nPrice:18mill",
+    "category": "Middle house",
+    "price": "18000000",
+    "priceNumeric": {
+      "$numberInt": "18000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Iburasirazuba",
+    "district": "Bugesera",
+    "sector": "Mayange",
+    "cell": "Mbyo",
+    "village": "Kabyo",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251128_204528_png-1764416065345-85114191.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251128_204525_png-1764416065838-171316394.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251128_204521_png-1764416065993-875905856.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251128_204518_png-1764416066162-216853855.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20251128_204528_png-1764416065345-85114191.jpg",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "area": {
+      "$numberInt": "308"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "3"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "yearBuilt": {
+      "$numberInt": "2025"
+    },
+    "yearRenovated": {
+      "$numberInt": "2025"
+    },
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "37"
+    },
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764416066314"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1771943775255"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "697c77b3a778db3d9bd08a2e"
+    },
+    "title": "Ibikoresho byo munzu bigurishwa",
+    "description": "*IBIKORESHO BYOMUNZU BIGURISHWA.670k.*\r\n\r\n\r\nIgitanda ni 1m80: 200k\r\n\r\nIyi saloon ifite inyanya 5. 350k  iracyari nshya.\r\n\r\nIyi garde robe ni MDF ifitemo imyanya 12 na tirioire 3.. 120k\r\n\r\nTotal: 670k\r\n\r\nCall: 0788820543\r\n*www.buyandsell250..com*",
+    "category": "Middle house",
+    "listingType": "For Sale",
+    "price": "670000",
+    "priceNumeric": {
+      "$numberInt": "670000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Nyarugenge",
+    "sector": "Nyarugenge",
+    "cell": "",
+    "village": "",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260120_170245-1769764784952-599176008.png",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260119_185125_png-1769764787073-596017234.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260119_185120_png-1769764787266-476798115.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260119_185113_png-1769764787419-509265229.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260120_170245-1769764784952-599176008.png",
+    "bedrooms": {
+      "$numberInt": "0"
+    },
+    "bathrooms": {
+      "$numberInt": "0"
+    },
+    "numberOfDoors": null,
+    "area": {
+      "$numberInt": "12"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "0"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "62"
+    },
+    "favorites": [],
+    "youtubeUrl": "",
+    "rating": {
+      "$numberInt": "0"
+    },
+    "ratingCount": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1769764787597"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1777202736197"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "698037858dee9c68bb818eb1"
+    },
+    "title": "Iragurishwa Nyamirambo, Miduha",
+    "description": "*Andi mafoto*\r\n\r\nIRAGURISHWA.\r\nNYAMIRAMBO/ MIDUHA.43mill.\r\n\r\n4Room \r\n2Toilet \r\nParking: 2car\r\nPrice: 43mill\r\n\r\n📞📞: 0788820543\r\n*buyandsell250.com*\r\n\r\n*Money, trust, and integrity*\r\n*we don’t ask for them, we earn them.*",
+    "category": "Middle house",
+    "listingType": "For Sale",
+    "price": "43000000",
+    "priceNumeric": {
+      "$numberInt": "43000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Nyarugenge",
+    "sector": "Nyarugenge",
+    "cell": "",
+    "village": "",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260202_072101_png-1770010500554-859384808.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260202_072058_png-1770010500804-169004789.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260202_072055_png-1770010500972-657217905.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260202_072050_png-1770010501159-721630363.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260202_072047_png-1770010501345-712261754.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260202_072101_png-1770010500554-859384808.jpg",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "numberOfDoors": null,
+    "area": {
+      "$numberInt": "3102"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "0"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "57"
+    },
+    "favorites": [],
+    "youtubeUrl": "",
+    "rating": {
+      "$numberInt": "0"
+    },
+    "ratingCount": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1770010501567"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1777218374096"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6981a40ced26ee0bb968cc56"
+    },
+    "title": "IRAGURISHWA. NYAMIRAMBO. RWABUTA",
+    "description": "*IRAGURISHWA.*\r\n*NYAMIRAMBO/* *RWABUTABURA.35mill.*\r\n\r\n3Room \r\nAnnex y'Ibyumba 2\r\n☝️: Toilet Hanze\r\n\r\nParking: 2car\r\nPrice: 35mill\r\n\r\n📞📞: 0788820543\r\n*buyandsell250.com*\r\n\r\n*Money, trust, and integrity*\r\n*we don’t ask for them, we earn them.*",
+    "category": "Middle house",
+    "listingType": "For Sale",
+    "price": "35000000",
+    "priceNumeric": {
+      "$numberInt": "35000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Nyarugenge",
+    "sector": "Nyarugenge",
+    "cell": "",
+    "village": "",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260203_091852_png-1770103819545-109895427.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260203_091849_png-1770103819736-180173270.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260203_091846_png-1770103820130-656379772.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260203_091842_png-1770103820253-317140203.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/Screenshot_20260203_091852_png-1770103819545-109895427.jpg",
+    "bedrooms": {
+      "$numberInt": "3"
+    },
+    "bathrooms": {
+      "$numberInt": "0"
+    },
+    "numberOfDoors": null,
+    "area": {
+      "$numberInt": "305"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "0"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "28"
+    },
+    "favorites": [],
+    "youtubeUrl": "",
+    "rating": {
+      "$numberInt": "0"
+    },
+    "ratingCount": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1770103820407"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1777209480437"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69cceabdea6a823da1689f98"
+    },
+    "title": "Inzu igurishwa kimisagara kuntar",
+    "description": "Inzu ifite imiryango kuruhande yinjiza. \r\nZose zinjiza. 380k.",
+    "category": "Middle house",
+    "listingType": "For Sale",
+    "price": "60000000",
+    "priceNumeric": {
+      "$numberInt": "60000000"
+    },
+    "discountedPrice": {
+      "$numberInt": "0"
+    },
+    "province": "Kigali",
+    "district": "Nyarugenge",
+    "sector": "Kimisagara",
+    "cell": "",
+    "village": "",
+    "images": [
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20260314_112837-1775037115129-731400910.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20260314_112828-1775037115994-563070646.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20260314_112533-1775037116553-137756163.jpg",
+      "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20260314_112459-1775037117079-409647209.jpg"
+    ],
+    "mainImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/houses/IMG_20260314_112837-1775037115129-731400910.jpg",
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "numberOfDoors": null,
+    "area": {
+      "$numberInt": "205"
+    },
+    "areaUnit": "sqm",
+    "propertyType": "House",
+    "condition": "Good",
+    "amenities": [],
+    "features": [],
+    "roadType": "Paved",
+    "parking": false,
+    "parkingSpaces": {
+      "$numberInt": "0"
+    },
+    "furnished": false,
+    "petFriendly": false,
+    "security": false,
+    "waterSupply": true,
+    "electricity": true,
+    "internet": false,
+    "nearbyAmenities": [],
+    "sewageSystem": "Municipal",
+    "owner": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "contactPhone": "+250 78 123 4567",
+    "contactEmail": "admin@example.com",
+    "status": "Available",
+    "isFeatured": false,
+    "views": {
+      "$numberInt": "1"
+    },
+    "favorites": [],
+    "youtubeUrl": "",
+    "rating": {
+      "$numberInt": "0"
+    },
+    "ratingCount": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1775037117696"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1775037727015"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

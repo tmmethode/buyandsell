@@ -1,0 +1,252 @@
+[
+  {
+    "_id": {
+      "$oid": "69b685c85447e83c82f01e65"
+    },
+    "itemId": null,
+    "itemName": "Riza - Eric - UPI: 1/08/12/1/1243 Contract",
+    "itemType": "Ikibanza",
+    "price": "60,000,000frw",
+    "status": "submitted",
+    "formData": {
+      "sellerName": "Ukuranyishema Eric",
+      "sellerPhone": "0788820543",
+      "sellerEmail": "ukuranyishemayounggreen@gmail.com",
+      "sellerAddress": "Gasabo, gisozi, musezero, kg 543st",
+      "buyerName": "Riza",
+      "buyerPhone": "0784845939",
+      "buyerEmail": "ukuranyishemayounggreen@gmail.com",
+      "buyerAddress": "Kigali",
+      "assetType": "Ikibanza",
+      "otherAssetType": "",
+      "assetDescription": "UPI: 1/08/12/1/1243",
+      "agreedPrice": "60,000,000frw",
+      "paymentMethod": "Bank Transfer",
+      "otherPaymentMethod": "",
+      "paymentDate": "2026-04-22",
+      "sellerSignatureName": "Ukuranyishema Eric",
+      "sellerSignatureDate": "2026-03-02",
+      "buyerSignatureName": "Riza",
+      "buyerSignatureDate": "2026-03-15",
+      "agreeToTerms": true
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1773569480318"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1773569480318"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69ca9939aea870323031c7fa"
+    },
+    "itemId": null,
+    "itemName": "Seller - eric - Ttyyljhgds DJ k hyhhjiikkkiikkkk\nHgdssst or dyhhhjjhyr we wwwtyu Contract",
+    "itemType": "Inzu",
+    "price": "25000000",
+    "status": "submitted",
+    "formData": {
+      "contractPartyRole": "seller",
+      "buyerAgents": [
+        {
+          "fullName": "Eric",
+          "phone": "0788820543"
+        },
+        {
+          "fullName": "Eric",
+          "phone": "07888 20543"
+        },
+        {
+          "fullName": "Eric",
+          "phone": "0788820543"
+        },
+        {
+          "fullName": "",
+          "phone": ""
+        },
+        {
+          "fullName": "Eric",
+          "phone": "0788820543"
+        },
+        {
+          "fullName": "",
+          "phone": ""
+        },
+        {
+          "fullName": "",
+          "phone": ""
+        },
+        {
+          "fullName": "",
+          "phone": ""
+        },
+        {
+          "fullName": "",
+          "phone": ""
+        },
+        {
+          "fullName": "",
+          "phone": ""
+        },
+        {
+          "fullName": "",
+          "phone": ""
+        }
+      ],
+      "sellerName": "Ukuranyishema eric",
+      "sellerPhone": "0788820543",
+      "sellerEmail": "ukuranyishemayounggreen@mail.com",
+      "sellerAddress": "Kigali, gikondo, karambo",
+      "sellerNationalId": "",
+      "buyerName": "",
+      "buyerPhone": "",
+      "buyerEmail": "",
+      "buyerAddress": "",
+      "buyerNationalId": "",
+      "assetType": "Inzu",
+      "otherAssetType": "",
+      "assetDescription": "Ttyyljhgds DJ k hyhhjiikkkiikkkk\nHgdssst or dyhhhjjhyr we wwwtyu",
+      "agreedPrice": "25000000",
+      "agreementDuration": "2026-03",
+      "paymentMethod": "",
+      "otherPaymentMethod": "",
+      "paymentDate": "",
+      "sellerSignatureName": "",
+      "sellerSignatureDate": "",
+      "buyerSignatureName": "",
+      "buyerSignatureDate": "",
+      "agreeToTerms": true
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1774885177843"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1774885177843"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69cb8c020eea1a2e52962047"
+    },
+    "itemId": null,
+    "itemName": "Buyer - Ukuranyishema - Ibibanza byimari cyane Contract",
+    "itemType": "Inzu",
+    "price": "25000000",
+    "status": "submitted",
+    "formData": {
+      "contractPartyRole": "buyer",
+      "buyerAgents": [
+        {
+          "fullName": "Eric",
+          "phone": "0788820543"
+        },
+        {
+          "fullName": "Eric",
+          "phone": "0788820543"
+        },
+        {
+          "fullName": "Eric",
+          "phone": "0788820543"
+        }
+      ],
+      "sellerName": "",
+      "sellerPhone": "",
+      "sellerEmail": "",
+      "sellerAddress": "",
+      "sellerNationalId": "",
+      "buyerName": "Ukuranyishema eric",
+      "buyerPhone": "0788820543",
+      "buyerEmail": "ukuranyishemayounggreen@mail.com",
+      "buyerAddress": "Kigali, nyarugenge",
+      "buyerNationalId": "",
+      "assetType": "Inzu",
+      "otherAssetType": "",
+      "assetDescription": "Ibibanza byimari cyane",
+      "agreedPrice": "25000000",
+      "agreementDuration": "",
+      "paymentMethod": "",
+      "otherPaymentMethod": "",
+      "paymentDate": "",
+      "sellerSignatureName": "",
+      "sellerSignatureDate": "",
+      "buyerSignatureName": "",
+      "buyerSignatureDate": "",
+      "agreeToTerms": true
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1774947330812"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1774947330812"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69d0449836de45b68d533c38"
+    },
+    "itemId": null,
+    "itemName": "Buyer - Twiringiyimana - Lorem ipsum is placeholder text commonly used in publishing and graphic design to demonstrate visual layouts without using meaningful content. Derived from Cicero's 1st-century BC text, it is scrambled Latin, preventing readers from being distracted by readable text. It has been used since the 1500s, popularised in the 1960s, and is now standard in digital design. Contract",
+    "itemType": "Inzu",
+    "price": "45000000",
+    "status": "submitted",
+    "formData": {
+      "contractPartyRole": "buyer",
+      "buyerAgents": [
+        {
+          "fullName": "Ngabonziza Didie",
+          "phone": "0796312652"
+        },
+        {
+          "fullName": "Mukamwezi Francine",
+          "phone": "0789612452"
+        }
+      ],
+      "sellerName": "",
+      "sellerPhone": "",
+      "sellerEmail": "",
+      "sellerAddress": "",
+      "sellerNationalId": "",
+      "buyerName": "Twiringiyimana Gad",
+      "buyerPhone": "07952623696",
+      "buyerEmail": "ericsibomana433@gmail.com",
+      "buyerAddress": "Kigali, Nyarugenge",
+      "buyerNationalId": "119827000437658",
+      "assetType": "Inzu",
+      "otherAssetType": "",
+      "assetDescription": "Lorem ipsum is placeholder text commonly used in publishing and graphic design to demonstrate visual layouts without using meaningful content. Derived from Cicero's 1st-century BC text, it is scrambled Latin, preventing readers from being distracted by readable text. It has been used since the 1500s, popularised in the 1960s, and is now standard in digital design.",
+      "agreedPrice": "45000000",
+      "agreementDuration": "",
+      "paymentMethod": "",
+      "otherPaymentMethod": "",
+      "paymentDate": "",
+      "sellerSignatureName": "",
+      "sellerSignatureDate": "",
+      "buyerSignatureName": "",
+      "buyerSignatureDate": "",
+      "agreeToTerms": true
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1775256728177"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1775256728177"
+      }
+    }
+  }
+]

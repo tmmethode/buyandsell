@@ -1,0 +1,112 @@
+[
+  {
+    "_id": {
+      "$oid": "691667bdb432457ec561e4c3"
+    },
+    "firstName": "Eric",
+    "lastName": "UKURANYISHEMA",
+    "email": "ukuranyishemayounggreen@gmail.com",
+    "phone": "0788820543",
+    "password": "$2a$12$OQm95S1LMRrvWI.EoZFoKe1E76mQNpWcuy7RB0Iqm7OzM2d4z8Uem",
+    "role": "admin",
+    "profileImage": "",
+    "isVerified": true,
+    "isActive": true,
+    "favorites": [],
+    "adminCreatedByMigration": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763076029901"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1777027060066"
+      }
+    },
+    "__v": {
+      "$numberInt": "1"
+    },
+    "lastLogin": {
+      "$date": {
+        "$numberLong": "1777027060064"
+      }
+    },
+    "permissions": []
+  },
+  {
+    "_id": {
+      "$oid": "69167029572948417804c3fa"
+    },
+    "firstName": "Methode",
+    "lastName": "TWIZEYIMANA",
+    "email": "tmmethode1@gmail.com",
+    "phone": "0788934674",
+    "password": "$2a$12$YoqfOidXJyw9Ck7qBuCBfeRyBXpzaZ0YR0w1kUo8cDFB8lp1w5KYy",
+    "role": "admin",
+    "profileImage": "https://storage.googleapis.com/memiserve/buyandsell/uploads/profiles/1000202595-1766398606909-572867056.jpg",
+    "isVerified": true,
+    "isActive": true,
+    "favorites": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763078185391"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1776799425771"
+      }
+    },
+    "__v": {
+      "$numberInt": "1"
+    },
+    "lastLogin": {
+      "$date": {
+        "$numberLong": "1776799425769"
+      }
+    },
+    "permissions": []
+  },
+  {
+    "_id": {
+      "$oid": "6948de8fbc9c166a79da3bbe"
+    },
+    "firstName": "Eric",
+    "lastName": "SIBOMANA",
+    "email": "ericsibomana433@gmail.com",
+    "phone": "0783840688",
+    "password": "$2a$12$RmiXHYBuc7O4rY8RPzHJ.eZ/OqJCnyX0lPrUjJRBjDhiHeLjfgByS",
+    "role": "user",
+    "profileImage": "",
+    "isVerified": true,
+    "isActive": true,
+    "favorites": [],
+    "permissions": [
+      "houses:view",
+      "houses:edit",
+      "cars:view",
+      "cars:edit",
+      "plots:view",
+      "plots:edit"
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1766383247975"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1769189029957"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "lastLogin": {
+      "$date": {
+        "$numberLong": "1769189029956"
+      }
+    }
+  }
+]

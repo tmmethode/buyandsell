@@ -1,0 +1,92 @@
+{
+  "name": "rwanda-marketplace",
+  "version": "1.0.0",
+  "description": "Rwanda's premier marketplace for cars, houses, plots, and jobs. A comprehensive multi-section web application connecting buyers, sellers, and job seekers across Rwanda.",
+  "keywords": [
+    "rwanda",
+    "marketplace",
+    "cars",
+    "houses",
+    "plots",
+    "jobs",
+    "real-estate",
+    "automotive",
+    "employment",
+    "react",
+    "tailwindcss"
+  ],
+  "author": {
+    "name": "Rwanda Marketplace Team",
+    "email": "info@rwandamarketplace.com"
+  },
+  "license": "MIT",
+  "homepage": "https://rwandamarketplace.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwanda-marketplace/web-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rwanda-marketplace/web-app/issues"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "// COMMENT 1": "--- CLOUD RUN CONFIGURATION ---",
+    "// gcp-build": "Runs ONCE during deployment. Creates the optimized React build folder.",
+    "gcp-build": "npm run build",
+    "// start": "Runs on every cold start. Starts ONLY the Node backend (fast).",
+    "start": "node backend/server.js",
+    "// COMMENT 2": "--- DEVELOPMENT SCRIPTS ---",
+    "dev": "node scripts/dev.js",
+    "dev:frontend": "react-scripts start",
+    "dev:backend": "nodemon backend/server.js",
+    "start:dev:react": "react-scripts start",
+    "build": "react-scripts build",
+    "start:prod": "node backend/server.js",
+    "start:backend": "node backend/server.js",
+    "start:dev": "nodemon backend/server.js",
+    "backup:mongodb": "node backend/scripts/backupMongo.js",
+    "restore:mongodb": "node backend/scripts/restoreMongo.js",
+    "// postinstall": "Installs backend dependencies so the server can run.",
+    "postinstall": "npm --prefix backend install",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.6.4",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^10.4.21",
+    "lucide-react": "^0.528.0",
+    "nodemon": "^3.1.11",
+    "postcss": "^8.5.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.7.1",
+    "react-scripts": "^5.0.1",
+    "tailwindcss": "^3.4.17",
+    "web-vitals": "^2.1.4"
+  }
+}

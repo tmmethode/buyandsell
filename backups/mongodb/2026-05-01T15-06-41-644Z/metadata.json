@@ -1,0 +1,47 @@
+{
+  "createdAt": "2026-05-01T15:07:04.611Z",
+  "database": "buyandsell250",
+  "collectionCount": 8,
+  "collections": [
+    {
+      "name": "signedcontracts",
+      "count": 4,
+      "file": "signedcontracts.json"
+    },
+    {
+      "name": "buyandsell250",
+      "count": 0,
+      "file": "buyandsell250.json"
+    },
+    {
+      "name": "plots",
+      "count": 8,
+      "file": "plots.json"
+    },
+    {
+      "name": "jobs",
+      "count": 0,
+      "file": "jobs.json"
+    },
+    {
+      "name": "visitors",
+      "count": 1648,
+      "file": "visitors.json"
+    },
+    {
+      "name": "cars",
+      "count": 5,
+      "file": "cars.json"
+    },
+    {
+      "name": "houses",
+      "count": 16,
+      "file": "houses.json"
+    },
+    {
+      "name": "users",
+      "count": 3,
+      "file": "users.json"
+    }
+  ]
+}
