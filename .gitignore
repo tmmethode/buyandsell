@@ -11,6 +11,7 @@
 
 # OS / local misc
 .DS_Store
+.sfdx/
 
 # root env files
 .env
